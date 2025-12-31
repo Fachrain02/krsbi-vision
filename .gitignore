@@ -27,7 +27,8 @@ ENV/
 env/
 .venv
 
-SETUP_GITHUB.md/
+# Setup files (local only)
+SETUP_GITHUB.md
 
 # IDEs
 .vscode/

@@ -125,10 +125,6 @@ Program mengirim data ke Arduino dengan format:
 
 Silakan buat pull request atau issue untuk perbaikan dan penambahan fitur.
 
-## Lisensi
-
-MIT License
-
 ## Author
 
 Fachrain Azis
